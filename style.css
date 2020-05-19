@@ -1,16 +1,8 @@
 
 html{height: 100%;}
 
-
-body{
-    background-color:#e93349;
-    background-size:cover;
-    background-repeat: no-repeat;
-    background-position: center;
-
-}
-
 .container{
+    background-color:#e93349;
     min-height: 500px;
     margin: 0 auto;
     display: flex; 
