@@ -12,15 +12,27 @@ body{
 
 .container{
     min-height: 500px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     display: flex; 
     flex-wrap: wrap;
     }
 
-.col{
-background-color:#e93349;
+/* Tablet view */
+@media (max-width: 768px){
+    
+}
 
+/* Mobile view */
+@media (max-width: 400px){
+    
+}
+
+
+
+.col{
+    background-color:#e93349;
+    min-height: 200px;
+    width: 75%
        
 }
     
