@@ -6,6 +6,14 @@
     flex-wrap: wrap;
     }
 
+body{
+    background-color:#e93349;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
 /* Tablet view */
 @media (max-width: 768px){
     
