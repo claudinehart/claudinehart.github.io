@@ -46,7 +46,7 @@ main {
 }
 
 h1{
-color: ivory;
+color: black;
 font-kerning: auto;
 font-size: 50px;
 
@@ -54,7 +54,7 @@ font-size: 50px;
 
 p1 {  font-size: 34px;
     font-kerning: inherit;
-    color: ivory;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
 
     font-family: Arial, Helvetica, sans-serif;
@@ -62,16 +62,16 @@ p1 {  font-size: 34px;
 
 p2 {  font-size: 20px;
     font-kerning: inherit;
-    color: ivory;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
-    color: ivory;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 
 
 a{
-color: ivory;
+color: black;
 font-family: Arial, Helvetica, sans-serif;
 }
 
