@@ -48,11 +48,11 @@ main {
 h1{
 color: #000000;
 font-kerning: auto;
-font-size: 50px;
+font-size: 40px;
 
 }
 
-p1 {  font-size: 34px;
+p1 {  font-size: 30px;
     font-kerning: inherit;
     color: #000000;
     font-family: Arial, Helvetica, sans-serif;
